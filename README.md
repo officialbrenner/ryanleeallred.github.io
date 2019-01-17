@@ -26,7 +26,7 @@ $ bundle exec jekyll serve
 *   **Post Body** (everything below the 2nd set of `---`') 
     *   Edit the post body with text using markdown to repeat and expand upon the description provided above. Feel free to embed images, links, and videos. (All media must be creative commons licensed.
 
-3.) Save your work with the name format like:  `2018-11-03-algorithm.md` , with the date and vocabulary term in the file name. 
+3.) Save your work with the name like `2018-11-03-algorithm.md` with the date and vocabulary term in the file name. 
 
 4.) Commit (upload) the .md file into the `_posts`  folder of your repo, and then create a pull request to merge with [**ryanleeallred.github.io:master**](https://github.com/ryanleeallred/ryanleeallred.github.io)
 
