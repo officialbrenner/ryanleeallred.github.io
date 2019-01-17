@@ -28,7 +28,7 @@ $ bundle exec jekyll serve
 
 3.) Save your work with the name like `2018-11-03-algorithm.md` with the date and vocabulary term in the file name. 
 
-4.) Commit (upload) the .md file into the `_posts`  folder of your repo, and then create a pull request to merge with [**ryanleeallred.github.io:master**](https://github.com/ryanleeallred/ryanleeallred.github.io)
+4.) Commit (upload) the .md file into the `_posts`  folder of your fork & make a pull request to merge with [**ryanleeallred.github.io:master**](https://github.com/ryanleeallred/ryanleeallred.github.io)
 
 # Contributing
 
