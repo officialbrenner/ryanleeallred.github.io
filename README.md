@@ -17,7 +17,7 @@ $ bundle exec jekyll serve
 
 1.) Fork the repository. 
 
-2.) Use the [ `post_template.md`](link to post template raw once uploaded) file and edit it as follows for your post:
+2.) Use the [post_template.md](link to post template raw once uploaded) file and edit it as follows for your post:
 
 *   Header *(no links or formatting)* 
     *   Edit the `title`  field to match the vocabulary term.
