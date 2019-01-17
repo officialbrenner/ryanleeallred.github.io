@@ -23,7 +23,7 @@ $ bundle exec jekyll serve
     *   Edit the `title`  field to match the vocabulary term.
     *   Edit the `category` to match the first letter of the vocabulary term. 
     *   Edit the `description` with the term, a '-', and a short description. 
-*   **Post Body** (everything below the 2nd set of `---`'s. 
+*   **Post Body** (everything below the 2nd set of `---`') 
     *   Edit the post body with text using markdown to repeat and expand upon the description provided above. Feel free to embed images, links, and videos. (All media must be creative commons licensed.
 
 3.) Save your work with the name format like:  `2018-11-03-algorithm.md` , with the date and vocabulary term in the file name. 
