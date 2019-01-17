@@ -19,11 +19,11 @@ $ bundle exec jekyll serve
 
 2.) Use the [`post_template.md`](link_to_post_template.md) file and edit it as follows for your post:
 
-*   Header *(no links or formatting)* 
+*   **Header** *(no links or formatting)* 
     *   Edit the `title`  field to match the vocabulary term.
     *   Edit the `category` to match the first letter of the vocabulary term. 
     *   Edit the `description` with the term, a '-', and a short description. 
-*   Post Body (everything below the 2nd set of `---`'s. 
+*   **Post Body** (everything below the 2nd set of `---`'s. 
     *   Edit the post body with text using markdown to repeat and expand upon the description provided above. Feel free to embed images, links, and videos. (All media must be creative commons licensed.
 
 3.) Save your work with the name format like:  `2018-11-03-algorithm.md` , with the date and vocabulary term in the file name. 
