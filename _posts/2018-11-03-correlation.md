@@ -12,6 +12,14 @@ In data science/machine learning there are different ways of measuring the stren
 
 - __Pearson's Correlation (Product Moment Coefficient)__: a measure of the strength and direction of the linear relatioship between two variables.
 
+ - **Pearson's correlation coefficient**
+
+Correlation is covariance that's been standardized by their respective X's and Y's.  Covariace(X, Y) is sum((X - X.mean()) * (Y - Y.mean())) / N.  Dividing the numerator of this formula by the standard deviation will give you the correlation coefficient.  
+
+In simpler terms, it measures how two variables change togeter whether in a positve, negative, or a straight-line direction.
+
+It always takes values between -1 and 1, 1 meaning perfect positive correlation, and -1 meaning perfect negative correlation.
+
 - __Matthew's Correlation__: used in machine learning as a measure of the quality of binary and multiclass classifications. It takes into account true and false positives and negatives and is generally regarded as a balanced measure which can be used even if the classes are of very different sizes.
 
 - __Rank Correlation__: is any of several statistics that measure an ordinal association—the relationship between rankings of different ordinal variables or different rankings of the same variable, where a "ranking" is the assignment of the ordering labels "first", "second", "third", etc. to different observations of a particular variable. A rank correlation coefficient measures the degree of similarity between two rankings, and can be used to assess the significance of the relation between them.
