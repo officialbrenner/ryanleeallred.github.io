@@ -14,5 +14,3 @@ In this case, unsupervised learning provides us with a number of exploratory dat
 2. Dimensionality Reduction - Reduces the number of variables taken into consideration via methods of feature selection and feature extraction
 3. Association Rule Learning - Discovering relationships between observations in a dataset
 
-
-
